@@ -60,3 +60,4 @@ BOTON.addEventListener("click", () => {
     fetchPokemon("squirtle");
   }
 })
+
